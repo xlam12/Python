@@ -1,0 +1,13 @@
+
+==================================================
+Stock Intrinsic Value Calculation
+==================================================
+Stock: AAPL
+EPS: $6.59
+Expected Growth Rate: 11.5%
+Intrinsic Value: $207.59
+Market Price: $249.34
+Margin of Safety: -20.11%
+Analysis: Stock is OVERVALUED by $41.75
+==================================================
+
